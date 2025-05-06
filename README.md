@@ -1,8 +1,10 @@
-A simple and intuitive calculator built using Python. This program allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+A fun and interactive number guessing game built using Python. The program generates a random number within a specified range, and the player has to guess it within a limited number of attempts.
 
-Features
-1. Basic Arithmetic Operations: Addition, subtraction, multiplication, and division.
+📋 Features
+Random Number Generation: The game selects a random number within a user-defined range.
 
-2. User-Friendly Interface: Command-line interface for easy interaction.
+Limited Attempts: Players have a fixed number of chances to guess the correct number.
 
-3. Error Handling: Graceful handling of invalid inputs and division by zero.
+User Feedback: After each guess, the game provides feedback indicating whether the guess was too high, too low, or correct.
+
+Replay Option: Players can choose to play again after completing a game.
